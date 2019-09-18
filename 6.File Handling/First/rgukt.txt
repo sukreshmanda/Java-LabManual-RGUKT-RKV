@@ -1,0 +1,4 @@
+Sukresh		20		9.8		EX
+Charan		98		8.0		A
+Chandu		25		8.5		A
+Inthiyaz	108		8.3		A
